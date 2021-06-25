@@ -2,6 +2,7 @@
   "name": "flexlayout_cra_example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://simon-eastwood.github.io/ipad/my-app/build",
   "dependencies": {
     "@epo/css-framework-precla": "^1.2.0",
     "@epo/epods-react-components": "^2.0.15",
