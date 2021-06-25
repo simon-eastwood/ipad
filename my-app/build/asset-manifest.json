@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ipad/my-app/build/static/css/main.924f62c8.chunk.css",
-    "main.js": "/ipad/my-app/build/static/js/main.4b093da1.chunk.js",
-    "main.js.map": "/ipad/my-app/build/static/js/main.4b093da1.chunk.js.map",
-    "runtime-main.js": "/ipad/my-app/build/static/js/runtime-main.14d25313.js",
-    "runtime-main.js.map": "/ipad/my-app/build/static/js/runtime-main.14d25313.js.map",
-    "static/css/2.961b4009.chunk.css": "/ipad/my-app/build/static/css/2.961b4009.chunk.css",
-    "static/js/2.8b3d3745.chunk.js": "/ipad/my-app/build/static/js/2.8b3d3745.chunk.js",
-    "static/js/2.8b3d3745.chunk.js.map": "/ipad/my-app/build/static/js/2.8b3d3745.chunk.js.map",
-    "static/js/3.5016a33d.chunk.js": "/ipad/my-app/build/static/js/3.5016a33d.chunk.js",
-    "static/js/3.5016a33d.chunk.js.map": "/ipad/my-app/build/static/js/3.5016a33d.chunk.js.map",
+    "main.css": "/ipad/my-app/build/static/css/main.9d0094cb.chunk.css",
+    "main.js": "/ipad/my-app/build/static/js/main.510f24ac.chunk.js",
+    "main.js.map": "/ipad/my-app/build/static/js/main.510f24ac.chunk.js.map",
+    "runtime-main.js": "/ipad/my-app/build/static/js/runtime-main.eedb7403.js",
+    "runtime-main.js.map": "/ipad/my-app/build/static/js/runtime-main.eedb7403.js.map",
+    "static/css/2.f8b0639a.chunk.css": "/ipad/my-app/build/static/css/2.f8b0639a.chunk.css",
+    "static/js/2.6ceda902.chunk.js": "/ipad/my-app/build/static/js/2.6ceda902.chunk.js",
+    "static/js/2.6ceda902.chunk.js.map": "/ipad/my-app/build/static/js/2.6ceda902.chunk.js.map",
+    "static/js/3.33ee1206.chunk.js": "/ipad/my-app/build/static/js/3.33ee1206.chunk.js",
+    "static/js/3.33ee1206.chunk.js.map": "/ipad/my-app/build/static/js/3.33ee1206.chunk.js.map",
     "index.html": "/ipad/my-app/build/index.html",
-    "static/css/2.961b4009.chunk.css.map": "/ipad/my-app/build/static/css/2.961b4009.chunk.css.map",
-    "static/css/main.924f62c8.chunk.css.map": "/ipad/my-app/build/static/css/main.924f62c8.chunk.css.map",
-    "static/js/2.8b3d3745.chunk.js.LICENSE.txt": "/ipad/my-app/build/static/js/2.8b3d3745.chunk.js.LICENSE.txt"
+    "static/css/2.f8b0639a.chunk.css.map": "/ipad/my-app/build/static/css/2.f8b0639a.chunk.css.map",
+    "static/css/main.9d0094cb.chunk.css.map": "/ipad/my-app/build/static/css/main.9d0094cb.chunk.css.map",
+    "static/js/2.6ceda902.chunk.js.LICENSE.txt": "/ipad/my-app/build/static/js/2.6ceda902.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14d25313.js",
-    "static/css/2.961b4009.chunk.css",
-    "static/js/2.8b3d3745.chunk.js",
-    "static/css/main.924f62c8.chunk.css",
-    "static/js/main.4b093da1.chunk.js"
+    "static/js/runtime-main.eedb7403.js",
+    "static/css/2.f8b0639a.chunk.css",
+    "static/js/2.6ceda902.chunk.js",
+    "static/css/main.9d0094cb.chunk.css",
+    "static/js/main.510f24ac.chunk.js"
   ]
 }

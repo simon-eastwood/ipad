@@ -2,10 +2,24 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Client as Styletron } from 'styletron-engine-atomic';
+import { Provider as StyletronProvider } from 'styletron-react';
+import { Theme, BaseProvider } from "@epo/epods-react-components/lib/Themes";
+
+import './gray.css';
+import '@epo/css-framework-precla/lib/index.min.css'
+
+const engine = new Styletron();
+
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <StyletronProvider value={engine}>
+      <BaseProvider theme={Theme}>
+        <App />
+      </BaseProvider>
+    </StyletronProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
