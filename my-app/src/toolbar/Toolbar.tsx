@@ -1,5 +1,5 @@
 
-import Header from '../header'
+import { Header } from '@epo/epods-react-components'
 
 const toolbarStyles = {
     width: "100%"
