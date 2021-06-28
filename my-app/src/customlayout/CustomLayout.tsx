@@ -46,7 +46,7 @@ function CustomLayout() {
   const factory = (node: TabNode) => {
     var component = node.getComponent();
     if (component === "button") {
-      return <Button>{node.getName()}</Button>;
+      return <Button iconBefore="face">{node.getName()}</Button>;
     }
   }
 

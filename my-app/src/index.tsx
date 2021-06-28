@@ -7,7 +7,8 @@ import { Provider as StyletronProvider } from 'styletron-react';
 import { Theme, BaseProvider } from "@epo/epods-react-components/lib/Themes";
 
 import './gray.css';
-import '@epo/css-framework-precla/lib/index.min.css'
+import '@epo/css-framework/lib/index.min.css'
+import '@epo/css-framework-fonts/lib/index.min.css';
 
 const engine = new Styletron();
 
